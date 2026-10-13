@@ -1565,6 +1565,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ## Utilities
 - [Deskreen](https://github.com/pavlobu/deskreen) - Turn any device into a secondary screen for your computer.
+- [YuliusBox](https://www.yuliusbox.com) - Privacy-first collection of 28 client-side browser tools for images, documents and data; everything runs in the browser, so files are never uploaded and no account is needed. Open source (MIT), self-hostable.
 
 [Back to top 🔝](#contents)
 
